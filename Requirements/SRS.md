@@ -41,35 +41,24 @@
 ## 2.2 Интерфейс пользователя 
 
 <a name="user_interface"/>
-Главное меню
 
-![Главное меню](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/MainPage.png)
+[Главное меню](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/MainPage.png)  
 
-Окно регистрации пользователя
 
-![Регистрация пользователя](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/SignUp.png)
+[Регистрация пользователя](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/SignUp.png)  
 
-Добавления участника в команду
+[Добавление участника](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/AddUserToUser.png)  
 
-![Добавление участника](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/AddUserToUser.png)
+[Меню команды](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/AddUserToUser-1.png)  
 
-Просмотр состава команды
+[Расписание](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule.png)  
+[Расписание-1](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-1.png)  
+[Расписание-2](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-2.png)  
+[Расписание-3](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-3.png)  
 
-![Меню команды](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/AddUserToUser-1.png)
+[Спонсоры](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Sponsor.png)
 
-Расписание
-![Schedule](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule.png)
-![Schedule-1](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-1.png)
-![Schedule-2](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-2.png)
-![Schedule-3](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-3.png)
-
-Окно спонсоров
-
-![Спонсоры](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Sponsor.png)
-
-Этапы олимпиады
-
-![Этапы](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Stages.png)
+[Этапы](https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Stages.png)
 
 
 ## 2.3 Характеристики пользователя 
