@@ -5,8 +5,9 @@
 2. [Требования пользователя](#user_requirements)  
    2.1 [Програмные интерфейсы](#program_interfaces)  
    2.2 [Интерфейс пользователя](#user_interface)  
-   2.4 [Предположения и зависимости](#dependencies)  
-3. [Системные требования](#system_requirements)  
+   2.3 [Характеристика пользователей](#user_config)  
+   2.4 [Предположения и зависимости](#dependencies)    
+4. [Системные требования](#system_requirements)  
   3.1 [Функциональные требования](#functional_requirements)  
   3.2 [Список таблиц](#list_of_tables)  
   3.3 [Нефункциональные требования](#nonfunctional_requirements)  
@@ -40,8 +41,43 @@
 ## 2.2 Интерфейс пользователя 
 
 <a name="user_interface"/>
+Главное меню
+
+![Главное меню](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/MainPage.png)
+
+Окно регистрации пользователя
+
+![Регистрация пользователя](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/SignUp.png)
+
+Добавления участника в команду
+
+![Добавление участника](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/AddUserToUser.png)
+
+Просмотр состава команды
+
+![Меню команды](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/AddUserToUser-1.png)
+
+Расписание
+![Schedule](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule.png)
+![Schedule-1](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-1.png)
+![Schedule-2](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-2.png)
+![Schedule-3](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Schedule-3.png)
+
+Окно спонсоров
+
+![Спонсоры](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Sponsor.png)
+
+Этапы олимпиады
+
+![Этапы](#https://github.com/Jlomka1222/acmbsuir/blob/main/Mocups/Stages.png)
+
+
+## 2.3 Характеристики пользователя 
+
+<a name="user_config"/>
+Пользователями данного приложения будут являтся участники олимпиады, а также их тренера. Участниками являются студенты/школьники, изъявившие желание участвовать в олимпиаде BSUIR OPEN, предположительно, люди участвующие в олимпиадах в IT сфере имеют достойный уровень тезничесской грамотоности и могут польховаться предоставленными им приложениями. 
  
-## 2.3 Предположения и зависимости 
+## 2.4 Предположения и зависимости 
 
  <a name="dependencies"/>
  
