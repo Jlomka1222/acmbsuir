@@ -5,3 +5,7 @@
 Тип приложения: Web-приложение 
 
 Язык: Python 3
+
+[SRS of program](https://github.com/Jlomka1222/acmbsuir/blob/main/Requirements/SRS.md)
+
+[User interface images](https://github.com/Jlomka1222/acmbsuir/tree/main/Mocups)
